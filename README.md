@@ -1,6 +1,6 @@
 # Lakehurst Gothic
 
-![Speciment of Lakehurst Gothic](https://raw.githubusercontent.com/Isosceles/lakehurst-gothic/master/documentation/LakehurstGothic_specimen.png)
+![Specimen of Lakehurst Gothic](https://raw.githubusercontent.com/Isosceles/lakehurst-gothic/master/documentation/LakehurstGothic_specimen.png)
 
 **This typeface is a work-in-progress and is provided here as-is, with no expectations or promises of completeness or quality.**
 
