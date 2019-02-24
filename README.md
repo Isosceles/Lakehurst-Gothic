@@ -1,5 +1,7 @@
 # Lakehurst Gothic
 
+![Speciment of Lakehurst Gothic](https://raw.githubusercontent.com/Isosceles/lakehurst-gothic/master/documentation/specimen.png)
+
 **This typeface is a work-in-progress and is provided here as-is, with no expectations or promises of completeness or quality.**
 
 _Lakehurst Gothic_ is a typeface based on the lettering used by the United States Navy's LTA (lighter-than-air) program. The names emblazoned along the sides of the envelopes of the great Navy airships ([U.S.S. Shenandoah](https://en.wikipedia.org/wiki/USS_Shenandoah_(ZR-1)), [U.S.S. Los Angeles](https://en.wikipedia.org/wiki/USS_Los_Angeles_(ZR-3)), [U.S.S. Akron](https://en.wikipedia.org/wiki/USS_Akron_(ZRS-4)), [U.S.S. Macon](https://en.wikipedia.org/wiki/USS_Macon_(ZRS-5))) bear a resemblance to _Bank Gothic_ (a contemporary) and _Microgramma_, but with several key differences that give them a character all their own.
