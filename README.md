@@ -19,7 +19,7 @@ Lakehurst Gothic is named after the former [Naval Air Station Lakehurst](https:/
 
 - [Glyphs.app](https://glyphsapp.com/)
 
-- [Adobe Illustrator](http://adobe.com/products/illustrator/) (mostly for measuring source samples)
+- [Adobe Illustrator](http://adobe.com/products/illustrator/) (mostly for measuring source samples and creating a specimen image)
 
 ## License
 
