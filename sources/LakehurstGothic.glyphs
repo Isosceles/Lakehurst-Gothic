@@ -1449,7 +1449,7 @@ unicode = 0039;
 },
 {
 glyphname = zero.zero;
-lastChange = "2019-02-24 18:29:24 +0000";
+lastChange = "2019-02-24 19:47:05 +0000";
 layers = (
 {
 layerId = "72FC769E-0471-4EB2-9C9D-CA7FFB11AFC9";
@@ -1470,9 +1470,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"130 124 LINE",
-"735 630 LINE",
 "780 576 LINE",
+"735 630 LINE",
+"130 124 LINE",
 "175 70 LINE"
 );
 },
