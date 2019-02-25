@@ -1,6 +1,6 @@
 # Lakehurst Gothic
 
-![Specimen of Lakehurst Gothic](https://raw.githubusercontent.com/Isosceles/lakehurst-gothic/master/documentation/LakehurstGothic_specimen.png)
+![Specimen of Lakehurst Gothic](https://raw.githubusercontent.com/Isosceles/lakehurst-gothic/master/documentation/LakehurstGothic_specimen_02.png)
 
 **This typeface is a work-in-progress and is provided here as-is, with no expectations or promises of completeness or quality.**
 
@@ -8,7 +8,9 @@ _Lakehurst Gothic_ is a typeface based on the lettering used by the United State
 
 As there are few orthographic depictions of the face, and because it was likely hand-painted on the vessels' hulls, the design has been copied primarily by eye, with characters missing from available samples created from scratch, using the contemporaneous _Bank Gothic_ as inspiration. A measure of artistic license has also been employed to make the face appear more consistent and aesthetically pleasing when not used solely for typesetting the names of Navy airships.
 
-Lakehurst Gothic is named after the former [Naval Air Station Lakehurst](https://en.wikipedia.org/wiki/Lakehurst_Maxfield_Field), in Lakehurst, New Jersey — the location from which much of the U.S. Navy's airship program was operated, the location where the U.S.S. Shenandoah was constructed, and also the site of the 1937 _Hindenburg_ disaster.
+_Lakehurst Gothic_ is named after the former [Naval Air Station Lakehurst](https://en.wikipedia.org/wiki/Lakehurst_Maxfield_Field), in Lakehurst, New Jersey — the location from which much of the U.S. Navy's airship program was operated, the location where the U.S.S. Shenandoah was constructed, and also the site of the 1937 _Hindenburg_ disaster.
+
+![Specimen of Lakehurst Gothic](https://raw.githubusercontent.com/Isosceles/lakehurst-gothic/master/documentation/LakehurstGothic_specimen.png)
 
 ## Improvements
 
