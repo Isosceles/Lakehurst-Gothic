@@ -1,6 +1,6 @@
 # Lakehurst Gothic
 
-![Specimen of Lakehurst Gothic](master/documentation/LakehurstGothic_specimen_02.png)
+![Specimen of Lakehurst Gothic](/documentation/LakehurstGothic_specimen_02.png)
 
 **This typeface is a work-in-progress and is provided here as-is, with no expectations or promises of completeness or quality.**
 
@@ -10,7 +10,7 @@ As there are few orthographic depictions of the face, and because it was likely 
 
 _Lakehurst Gothic_ is named after the former [Naval Air Station Lakehurst](https://en.wikipedia.org/wiki/Lakehurst_Maxfield_Field), in Lakehurst, New Jersey — the location from which much of the U.S. Navy's airship program was operated, the location where the U.S.S. Shenandoah was constructed, and also the site of the 1937 _Hindenburg_ disaster.
 
-![Specimen of Lakehurst Gothic](master/documentation/LakehurstGothic_specimen.png)
+![Specimen of Lakehurst Gothic](/documentation/LakehurstGothic_specimen.png)
 
 ## Improvements
 
